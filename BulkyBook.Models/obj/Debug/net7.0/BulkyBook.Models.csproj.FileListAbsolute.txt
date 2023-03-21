@@ -1,0 +1,12 @@
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.deps.json
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.dll
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.pdb
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.csproj.AssemblyReference.cache
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfo.cs
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.dll
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\obj\Debug\net7.0\refint\BulkyBook.Models.dll
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.pdb
+D:\celstream\training courses\Bulky-master\Bulky-master\BulkyBook.Models\obj\Debug\net7.0\ref\BulkyBook.Models.dll
